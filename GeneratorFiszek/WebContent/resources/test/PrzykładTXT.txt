@@ -1,0 +1,3 @@
+cat,kot;
+dog,pies;
+bird,ptak;
